@@ -21,6 +21,8 @@ There are a total of 12 original themes to choose from:
 
 As well as user submitted ones:
 
+* [Cosmic Cyan](https://github.com/anthonykour/themes-for-ytmdesktop-player/blob/main/Dark%20Themes/Monocolored/Cosmic%20Cyan.css)
+
 * [Sweetified YTM](https://github.com/kerichdev/themes-for-ytmdesktop-player/tree/main#Sweetified-YTM)
 
 ## Installation
@@ -116,6 +118,12 @@ Assuming you have the latest build with the theme selection menu, open the app, 
 ![White Gold](https://i.ibb.co/0GZDcS9/White-Gold.png "White Gold")
 
 [Get it here](https://github.com/kerichdev/themes-for-ytmdesktop-player/blob/main/Light%20Themes/Whiteout/White%20Gold.css)
+
+### Cosmic Cyan
+
+![Cosmic Cyan](https://i.ibb.co/9kSY106d/Cosmic-Cyan.png "Cosmic Cyan")
+
+[Get it here](https://github.com/anthonykour/themes-for-ytmdesktop-player/blob/main/Dark%20Themes/Monocolored/Cosmic%20Cyan.css)
 
 ### Sweetified YTM
 
