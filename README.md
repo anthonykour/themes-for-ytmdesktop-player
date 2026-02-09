@@ -121,7 +121,7 @@ Assuming you have the latest build with the theme selection menu, open the app, 
 
 ### Cosmic Cyan
 
-![Cosmic Cyan](<img width="1172" height="899" alt="Screenshot" src="https://github.com/user-attachments/assets/5e127aa1-fd5f-4d0a-a7a3-0ce1ac866953" /> "Cosmic Cyan")
+![Cosmic Cyan](https://imgur.com/a/iy7byJA "Cosmic Cyan")
 
 [Get it here](https://github.com/anthonykour/themes-for-ytmdesktop-player/blob/main/Dark%20Themes/Monocolored/Cosmic%20Cyan.css)
 
