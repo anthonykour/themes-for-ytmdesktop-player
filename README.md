@@ -121,7 +121,7 @@ Assuming you have the latest build with the theme selection menu, open the app, 
 
 ### Cosmic Cyan
 
-![Cosmic Cyan](https://i.imgur.com/iy7byJA.png)
+![Cosmic Cyan](https://private-user-images.githubusercontent.com/28590639/542288746-c384d991-fb9c-4271-adab-07e21a71d4f3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA2NDU2NzAsIm5iZiI6MTc3MDY0NTM3MCwicGF0aCI6Ii8yODU5MDYzOS81NDIyODg3NDYtYzM4NGQ5OTEtZmI5Yy00MjcxLWFkYWItMDdlMjFhNzFkNGYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjA5VDEzNTYxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0N2M1MDlhNzc1OTUyZTViZmY0NDM0MThhNWE1YjUwY2FiNGFiOTdhZTk5ZjAxOWUxOTUxNjA4NWI5YThjNzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.X4iQ1wyV8naRB4HjTI255duL5VPxEf_ode-oJ5_HbAg)
 
 [Get it here](https://github.com/anthonykour/themes-for-ytmdesktop-player/blob/main/Dark%20Themes/Monocolored/Cosmic%20Cyan.css)
 
